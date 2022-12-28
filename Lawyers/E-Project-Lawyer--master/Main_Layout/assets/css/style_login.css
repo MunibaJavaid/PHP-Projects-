@@ -1,0 +1,14 @@
+.bg-image{
+    background-image: url("https://media.istockphoto.com/id/1281150061/vector/register-account-submit-access-login-password-username-internet-online-website-concept.jpg?s=612x612&w=0&k=20&c=9HWSuA9IaU4o-CK6fALBS5eaO1ubnsM08EOYwgbwGBo=");
+}
+.back_color{
+    background-color: rgba(217, 217, 217, 0.97);
+}
+.bg-reg{
+    background-image: url("https://imgs.bharatmatrimony.com/bmimgs/login/login-otp-banner.png");
+    background-size: cover;
+   
+}
+.ab{
+    box-shadow: 10px 10px 10px rgb(149, 149, 149);
+}
